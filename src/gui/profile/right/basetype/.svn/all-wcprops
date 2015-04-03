@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype
+END
+A_SimpleCfgBool.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_SimpleCfgBool.java
+END
+A_ComboxPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_ComboxPanel.java
+END
+A_SimpleCfgInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_SimpleCfgInt.java
+END
+I_ConfigItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/I_ConfigItem.java
+END
+A_CfgItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_CfgItems.java
+END
+A_SimpleCfgString.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_SimpleCfgString.java
+END
+A_SimpleCfgBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_SimpleCfgBase.java
+END
+A_SimpleCfgList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gui/profile/right/basetype/A_SimpleCfgList.java
+END

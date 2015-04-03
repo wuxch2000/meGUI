@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/gui/util
+END
+GradUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gui/util/GradUtil.java
+END
+TextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gui/util/TextUtil.java
+END
+VideoFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/gui/util/VideoFileFilter.java
+END
+BorderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/gui/util/BorderUtil.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gui/util/FileUtil.java
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/gui/util/ImageUtil.java
+END
+GuiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/gui/util/GuiUtil.java
+END
+LocationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/gui/util/LocationUtil.java
+END
+WindowOfListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/gui/util/WindowOfListUtil.java
+END
+SizeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gui/util/SizeUtil.java
+END

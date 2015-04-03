@@ -1,0 +1,77 @@
+10
+
+dir
+2
+https://wuxch-me-gui.googlecode.com/svn/trunk/gui/profile/right
+https://wuxch-me-gui.googlecode.com/svn
+
+
+
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3a16971d-43b7-d573-3d4d-2cc08014f1d1
+
+RightPanel.java
+file
+
+
+
+
+2011-12-18T05:58:34.195000Z
+44129d02333d2da1a5f77f5e2d272389
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1050
+
+audio
+dir
+
+basetype
+dir
+
+container
+dir
+
+font
+dir
+
+video
+dir
+

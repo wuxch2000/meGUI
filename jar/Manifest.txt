@@ -1,0 +1,10 @@
+Main-Class: gui.GuiMain
+Sealed: true
+Name: meGUI
+SplashScreen-Image: images/meGUI.gif
+Specification-Title: meGUI
+Specification-Version: 0.1
+Specification-Vendor: wuxch
+Implementation-Title: wuxch
+Implementation-Version: 0.1
+Implementation-Vendor: wuxch

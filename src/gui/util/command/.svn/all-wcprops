@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/gui/util/command
+END
+I_CommandStatusUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/gui/util/command/I_CommandStatusUpdate.java
+END
+CommandDispatchThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/gui/util/command/CommandDispatchThread.java
+END
+I_ParseString.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/gui/util/command/I_ParseString.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/gui/util/command/Command.java
+END
+CommandInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gui/util/command/CommandInfo.java
+END
+CommandExecThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/gui/util/command/CommandExecThread.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/gui/util/command/Status.java
+END
+OutputReadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/gui/util/command/OutputReadThread.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/list_value
+END
+Cfg_threads.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/list_value/Cfg_threads.java
+END
+Cfg_subq.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/list_value/Cfg_subq.java
+END
+Cfg_trellis.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/list_value/Cfg_trellis.java
+END
+Cfg_me.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/list_value/Cfg_me.java
+END
+Cfg_frameref.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/list_value/Cfg_frameref.java
+END

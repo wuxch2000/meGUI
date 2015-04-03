@@ -1,0 +1,71 @@
+10
+
+dir
+2
+https://wuxch-me-gui.googlecode.com/svn/trunk/gui/profile/right/audio/codec/faac
+https://wuxch-me-gui.googlecode.com/svn
+
+
+
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3a16971d-43b7-d573-3d4d-2cc08014f1d1
+
+Cfg_faac.java
+file
+
+
+
+
+2011-12-18T05:57:38.005000Z
+63dbad0e6a2bdc0ac6147b033a3049ac
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1225
+
+bool_value
+dir
+
+int_value
+dir
+
+list_value
+dir
+

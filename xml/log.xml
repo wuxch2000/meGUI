@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<log>
+  <run-time-info>
+    <last-open-directory>F:\download</last-open-directory>
+    <last-dest-directory>F:\m4v</last-dest-directory>
+  </run-time-info>
+  <convert-log>
+    <job>
+      <start-time>2011-04-30 23:00:11 星期六</start-time>
+      <end-time>2011-04-30 23:24:01 星期六</end-time>
+      <source-file>F:\download\Greys.Anatomy.S07E19.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Greys.Anatomy.719.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:14</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-30 22:38:34 星期六</start-time>
+      <end-time>2011-04-30 23:00:11 星期六</end-time>
+      <source-file>F:\download\Desperate.Housewives.S07E19.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Desperate.Housewives.719.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:35</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-29 22:27:08 星期五</start-time>
+      <end-time>2011-04-29 23:35:46 星期五</end-time>
+      <source-file>F:\download\Greys.Anatomy.S07E19.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Greys.Anatomy.719.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:14</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-29 21:57:25 星期五</start-time>
+      <end-time>2011-04-29 22:27:06 星期五</end-time>
+      <source-file>F:\download\Desperate.Housewives.S07E19.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Desperate.Housewives.719.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:35</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-29 21:46:20 星期五</start-time>
+      <end-time>2011-04-29 21:57:25 星期五</end-time>
+      <source-file>F:\download\The.Big.Bang.Theory.S04E21.HDTV.XviD-ASAP.avi</source-file>
+      <destination-file>F:\m4v\The.Big.Bang.Theory.421.cn.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:24</end-pos>
+      <script-file>F:\download\the_big_bang_theory_s04e21_hdtv_xvid_asap_YTET_YDY\the.big.bang.theory.s04e21.hdtv.xvid-asap.gb.srt</script-file>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-29 21:36:45 星期五</start-time>
+      <end-time>2011-04-29 21:46:19 星期五</end-time>
+      <source-file>F:\download\The.Big.Bang.Theory.S04E21.HDTV.XviD-ASAP.avi</source-file>
+      <destination-file>F:\m4v\The.Big.Bang.Theory.421.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:24</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-25 13:42:18 星期一</start-time>
+      <end-time>2011-04-25 14:02:28 星期一</end-time>
+      <source-file>F:\download\Desperate.Housewives.S07E18.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Desperate.Housewives.718.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:17</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-25 13:32:05 星期一</start-time>
+      <end-time>2011-04-25 13:42:18 星期一</end-time>
+      <source-file>F:\download\Modern.Family.S02E20.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Modern.Family.220.cn.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:55</end-pos>
+      <script-file>F:\download\Modern_Family_S02E20_HDTV__XviD_LOL_YTET_YDY\Modern.Family.S02E20.HDTV.XviD-LOL.YTET@YDY\Modern.Family.S02E20.HDTV.XviD-LOL.gb.srt</script-file>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-25 13:22:30 星期一</start-time>
+      <end-time>2011-04-25 13:32:05 星期一</end-time>
+      <source-file>F:\download\Modern.Family.S02E20.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Modern.Family.220.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:55</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-15 22:50:47 星期五</start-time>
+      <end-time>2011-04-15 23:17:06 星期五</end-time>
+      <source-file>F:\download\DUE.DATE.2010.Cam.XviD.Feel-Free.avi</source-file>
+      <destination-file>F:\m4v\Due.Date.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>1:23:19</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-15 22:32:20 星期五</start-time>
+      <end-time>2011-04-15 22:50:47 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E20.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.220.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-15 22:23:47 星期五</start-time>
+      <end-time>2011-04-15 22:32:20 星期五</end-time>
+      <source-file>F:\download\Modern.Family.S02E19.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Modern.Family.219.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:36</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 23:02:40 星期五</start-time>
+      <end-time>2011-04-08 23:13:52 星期五</end-time>
+      <source-file>F:\download\The.Big.Bang.Theory.S04E20.HDTV.XviD-ASAP.avi</source-file>
+      <destination-file>F:\m4v\The.Big.Bang.Theory.420.cn.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:28</end-pos>
+      <script-file>F:\download\the.big.bang.theory.s04e20.hdtv.xvid-asap.gb.srt</script-file>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 22:47:36 星期五</start-time>
+      <end-time>2011-04-08 23:02:40 星期五</end-time>
+      <source-file>F:\download\The.Big.Bang.Theory.S04E20.HDTV.XviD-ASAP.avi</source-file>
+      <destination-file>F:\m4v\The.Big.Bang.Theory.420.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:28</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 15:22:50 星期五</start-time>
+      <end-time>2011-04-08 15:57:47 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E19.HDTV.XviD.PROPER-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.219.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:01</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 14:48:34 星期五</start-time>
+      <end-time>2011-04-08 15:22:50 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E18.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.218.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:44</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 14:16:45 星期五</start-time>
+      <end-time>2011-04-08 14:48:34 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E17.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 13:47:47 星期五</start-time>
+      <end-time>2011-04-08 14:16:45 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E16.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.216.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:06</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 13:23:39 星期五</start-time>
+      <end-time>2011-04-08 13:47:47 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E15.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.215.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:47</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-08 13:04:47 星期五</start-time>
+      <end-time>2011-04-08 13:23:39 星期五</end-time>
+      <source-file>F:\download\Desperate.Housewives.S07E17.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Desperate.Housewives.717.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:22</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 23:17:46 星期五</start-time>
+      <end-time>2011-04-01 23:17:51 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E16.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.216.m4v</destination-file>
+      <start-pos>0:14:17</start-pos>
+      <end-pos>0:27:29</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 23:06:02 星期五</start-time>
+      <end-time>2011-04-01 23:17:46 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E15.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.215.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:47</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 22:46:26 星期五</start-time>
+      <end-time>2011-04-01 23:06:00 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E14.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.214.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:55</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 22:27:58 星期五</start-time>
+      <end-time>2011-04-01 22:46:26 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E13.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.213.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:04</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 22:08:16 星期五</start-time>
+      <end-time>2011-04-01 22:27:58 星期五</end-time>
+      <source-file>F:\download\Greys.Anatomy.S07E18.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Greys.Anatomy.718.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:47</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 22:00:17 星期五</start-time>
+      <end-time>2011-04-01 22:08:16 星期五</end-time>
+      <source-file>F:\download\The.Big.Bang.Theory.S04E19.PROPER.HDTV.XviD-FEVER.avi</source-file>
+      <destination-file>F:\m4v\The.Big.Bang.Theory.419.cn.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:03</end-pos>
+      <script-file>F:\download\the_big_bang_theory_s04e19_proper_hdtv_xvid_fever_YTET_YDY\the.big.bang.theory.s04e19.proper.hdtv.xvid-fever.gb.srt</script-file>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 21:52:41 星期五</start-time>
+      <end-time>2011-04-01 22:00:17 星期五</end-time>
+      <source-file>F:\download\The.Big.Bang.Theory.S04E19.PROPER.HDTV.XviD-FEVER.avi</source-file>
+      <destination-file>F:\m4v\The.Big.Bang.Theory.419.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:03</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 17:01:26 星期五</start-time>
+      <end-time>2011-04-01 17:34:32 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E12.HDTV.XviD-LOL.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.212.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:44</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:39:55 星期五</start-time>
+      <end-time>2011-04-01 17:01:25 星期五</end-time>
+      <source-file>F:\download\The.Good.Wife.S02E11.Two.Courts.HDTV.XviD-FQM.[VTV].avi</source-file>
+      <destination-file>F:\m4v\The.Good.Wife.211.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:40</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 14:58:29 星期五</start-time>
+      <end-time>2011-04-01 15:17:51 星期五</end-time>
+      <source-file>F:\download\Harrys.Law.S01E05.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Harrys.Law.105.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:04</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-27 13:24:25 星期日</start-time>
+      <end-time>2011-03-27 13:43:00 星期日</end-time>
+      <source-file>F:\download\Greys.Anatomy.S07E17.HDTV.XviD-LOL\Greys.Anatomy.S07E17.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Greys.Anatomy.717.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-27 13:06:19 星期日</start-time>
+      <end-time>2011-03-27 13:24:25 星期日</end-time>
+      <source-file>F:\download\Harrys.Law.S01E05.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Harrys.Law.105.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:04</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-27 12:49:27 星期日</start-time>
+      <end-time>2011-03-27 13:06:19 星期日</end-time>
+      <source-file>F:\download\Harrys.Law.S01E04.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Harrys.Law.104.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:15</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-25 21:18:23 星期五</start-time>
+      <end-time>2011-03-25 21:26:35 星期五</end-time>
+      <source-file>F:\download\Modern.Family.S02E18.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Modern.Family.218.CN.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:37</end-pos>
+      <script-file>F:\download\Modern.Family.S02E18.HDTV.XviD-LOL.gb.srt</script-file>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-25 21:09:16 星期五</start-time>
+      <end-time>2011-03-25 21:18:23 星期五</end-time>
+      <source-file>F:\download\Modern.Family.S02E18.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Modern.Family.218.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-25 20:53:19 星期五</start-time>
+      <end-time>2011-03-25 21:09:16 星期五</end-time>
+      <source-file>F:\download\Harrys.Law.S01E02.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Harrys.Law.102.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:32</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-25 20:38:05 星期五</start-time>
+      <end-time>2011-03-25 20:53:19 星期五</end-time>
+      <source-file>F:\download\Harrys.Law.S01E01.HDTV.XviD-LOL.avi</source-file>
+      <destination-file>F:\m4v\Harrys.Law.101.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-24 14:42:18 星期四</start-time>
+      <end-time>2011-03-24 14:42:45 星期四</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:32:56 星期三</start-time>
+      <end-time>2011-03-23 15:33:08 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217a.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217a.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:32:44 星期三</start-time>
+      <end-time>2011-03-23 15:32:56 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:30:35 星期三</start-time>
+      <end-time>2011-03-23 15:30:47 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:14:51 星期三</start-time>
+      <end-time>2011-03-23 15:15:05 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217a.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217a.m4v</destination-file>
+      <start-pos>0:20:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:14:23 星期三</start-time>
+      <end-time>2011-03-23 15:14:51 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:13:30 星期三</start-time>
+      <end-time>2011-03-23 15:13:44 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:09:40 星期三</start-time>
+      <end-time>2011-03-23 15:09:55 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:06:21 星期三</start-time>
+      <end-time>2011-03-23 15:06:28 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-22 17:50:24 星期二</start-time>
+      <end-time>2011-03-22 17:50:33 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-22 17:48:55 星期二</start-time>
+      <end-time>2011-03-22 17:49:03 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-22 11:21:56 星期二</start-time>
+      <end-time>2011-03-22 11:22:03 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>INTERRUPPTED</status>
+    </job>
+  </convert-log>
+</log>

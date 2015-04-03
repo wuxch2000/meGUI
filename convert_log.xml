@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<log>
+  <run-time-info>
+    <last-open-directory>D:\JavaCode\meGUI\examples</last-open-directory>
+    <last-dest-directory>D:\JavaCode\meGUI\examples\m4v</last-dest-directory>
+  <show-tutorial-on-shartup>false</show-tutorial-on-shartup>
+  </run-time-info>
+  <convert-log>
+    <job>
+      <start-time>2011-12-27 20:08:49 星期二</start-time>
+      <end-time>2011-12-27 20:09:34 星期二</end-time>
+      <source-file>D:\Download\bt\Bridesmaids.avi</source-file>
+      <source-file-info>
+        <length>7817</length>
+        <format>XVID</format>
+        <video-bitrate>1.276 mbps</video-bitrate>
+        <audio-bitrate>448 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>264</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Bridesmaids.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-12-27 16:00:03 星期二</start-time>
+      <end-time>2011-12-27 16:01:00 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-12-17 23:00:49 星期六</start-time>
+      <end-time>2011-12-17 23:01:01 星期六</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-08-03 14:35:47 星期三</start-time>
+      <end-time>2011-08-03 14:36:32 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:01:00</start-pos>
+      <end-pos>0:02:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-15 14:57:42 星期三</start-time>
+      <end-time>2011-06-15 15:54:52 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.iphone.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>iphone</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-15 14:41:05 星期三</start-time>
+      <end-time>2011-06-15 14:43:37 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\test.m4v</destination-file>
+      <start-pos>0:10:00</start-pos>
+      <end-pos>0:11:00</end-pos>
+      <script-file/>
+      <profile>iphone</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-15 14:38:58 星期三</start-time>
+      <end-time>2011-06-15 14:41:05 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\test.m4v</destination-file>
+      <start-pos>0:10:00</start-pos>
+      <end-pos>0:11:00</end-pos>
+      <script-file/>
+      <profile>iphone</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-15 14:28:09 星期三</start-time>
+      <end-time>2011-06-15 14:29:45 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:10:00</start-pos>
+      <end-pos>0:11:00</end-pos>
+      <script-file/>
+      <profile>iphone</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-15 14:13:43 星期三</start-time>
+      <end-time>2011-06-15 14:14:49 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\test.m4v</destination-file>
+      <start-pos>0:10:00</start-pos>
+      <end-pos>0:11:00</end-pos>
+      <script-file/>
+      <profile>iphone</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-15 14:07:03 星期三</start-time>
+      <end-time>2011-06-15 14:07:53 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:10:00</start-pos>
+      <end-pos>0:11:00</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-08 16:42:17 星期三</start-time>
+      <end-time>2011-06-08 16:42:25 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-08 16:27:28 星期三</start-time>
+      <end-time>2011-06-08 16:27:36 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-08 16:23:43 星期三</start-time>
+      <end-time>2011-06-08 16:24:37 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-06-08 11:03:11 星期三</start-time>
+      <end-time>2011-06-08 11:03:36 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>135.672 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+        <fps>23.98</fps>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:00</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+<job>
+<start-time>2011-05-23 16:45:59 星期一</start-time>
+<end-time>2011-05-23 16:46:01 星期一</end-time>
+<source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+<destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+<start-pos>0:00:00</start-pos>
+<end-pos>0:21:11</end-pos>
+<script-file>D:\JavaCode\meGUI\examples\Modern.Family.217.srt</script-file>
+<profile>ipod.nano</profile>
+<status>中断</status>
+</job>
+    <job>
+      <start-time>2011-04-18 16:00:24 星期一</start-time>
+      <end-time>2011-04-18 16:00:29 星期一</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-18 15:58:05 星期一</start-time>
+      <end-time>2011-04-18 15:58:10 星期一</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e18.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e18.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-18 15:54:42 星期一</start-time>
+      <end-time>2011-04-18 15:54:47 星期一</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-18 15:46:21 星期一</start-time>
+      <end-time>2011-04-18 15:46:26 星期一</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-02 17:51:29 星期六</start-time>
+      <end-time>2011-04-02 17:51:32 星期六</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:34:02 星期五</start-time>
+      <end-time>2011-04-01 16:34:06 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:30:25 星期五</start-time>
+      <end-time>2011-04-01 16:30:27 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:23:51 星期五</start-time>
+      <end-time>2011-04-01 16:23:55 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:17:54 星期五</start-time>
+      <end-time>2011-04-01 16:17:55 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:17:39 星期五</start-time>
+      <end-time>2011-04-01 16:17:53 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:16:03 星期五</start-time>
+      <end-time>2011-04-01 16:16:09 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:15:28 星期五</start-time>
+      <end-time>2011-04-01 16:15:32 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:14:38 星期五</start-time>
+      <end-time>2011-04-01 16:14:44 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 16:13:16 星期五</start-time>
+      <end-time>2011-04-01 16:13:24 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 15:53:20 星期五</start-time>
+      <end-time>2011-04-01 15:53:26 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-04-01 15:51:39 星期五</start-time>
+      <end-time>2011-04-01 15:52:16 星期五</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.s2e17.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.s2e17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-28 12:49:14 星期一</start-time>
+      <end-time>2011-03-28 12:58:50 星期一</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-28 12:36:41 星期一</start-time>
+      <end-time>2011-03-28 12:37:16 星期一</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-24 14:42:18 星期四</start-time>
+      <end-time>2011-03-24 14:42:45 星期四</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:32:56 星期三</start-time>
+      <end-time>2011-03-23 15:33:08 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217a.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217a.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:32:44 星期三</start-time>
+      <end-time>2011-03-23 15:32:56 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:30:35 星期三</start-time>
+      <end-time>2011-03-23 15:30:47 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:00:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:14:51 星期三</start-time>
+      <end-time>2011-03-23 15:15:05 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217a.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217a.m4v</destination-file>
+      <start-pos>0:20:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:14:23 星期三</start-time>
+      <end-time>2011-03-23 15:14:51 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:01:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:13:30 星期三</start-time>
+      <end-time>2011-03-23 15:13:44 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:09:40 星期三</start-time>
+      <end-time>2011-03-23 15:09:55 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-23 15:06:21 星期三</start-time>
+      <end-time>2011-03-23 15:06:28 星期三</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-22 17:50:24 星期二</start-time>
+      <end-time>2011-03-22 17:50:33 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-22 17:48:55 星期二</start-time>
+      <end-time>2011-03-22 17:49:03 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2011-03-22 11:21:56 星期二</start-time>
+      <end-time>2011-03-22 11:22:03 星期二</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\Modern.Family.217.avi</source-file>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\Modern.Family.217.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>INTERRUPPTED</status>
+    </job>
+  </convert-log>
+</log>

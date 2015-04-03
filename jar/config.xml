@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+  <local>
+    <using>en</using>
+    <local-option name="en">
+      <language>en</language>
+      <country>US</country>
+      <font>
+        <name>Arial</name>
+        <size>16</size>
+      </font>
+    </local-option>
+    <local-option name="zh">
+      <language>zh</language>
+      <country>CN</country>
+      <font>
+        <name>黑体</name>
+        <size>16</size>
+      </font>
+    </local-option>
+  </local>
+  <profiles>
+    <path>profile</path>
+    <xsl-file name="profile.xsl" />
+    <profile name="ipod.nano.xml"/>
+    <profile name="iphone.xml"/>
+  </profiles>
+  <xslt>
+    <command>java -jar "E:/Program Files/saxon/jar/saxon9he.jar"</command>
+    <source-tag>-s:</source-tag>
+    <xsl-file-tag>-xsl:</xsl-file-tag>
+    <destination-tag>-o:</destination-tag>
+  </xslt>
+  <run-time-info>
+    <last-open-directory>D:\JavaCode\meGUI\examples</last-open-directory>
+    <last-dest-directory>D:\JavaCode\meGUI\examples\m4v</last-dest-directory>
+  </run-time-info>
+</config>

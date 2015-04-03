@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/properties
+END
+VideoFileField_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/properties/VideoFileField_zh_CN.properties
+END
+Dialog_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/properties/Dialog_en.properties
+END
+VideoFileField_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/properties/VideoFileField_zh.properties
+END
+build_properties.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/properties/build_properties.bat
+END
+VideoFileField_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/properties/VideoFileField_en.properties
+END
+Dialog_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/properties/Dialog_zh_CN.properties
+END
+Dialog_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/properties/Dialog_zh.properties
+END

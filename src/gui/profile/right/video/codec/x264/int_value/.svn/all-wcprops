@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/int_value
+END
+Cfg_vbv_bufsize.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/int_value/Cfg_vbv_bufsize.java
+END
+Cfg_vbv_maxrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/int_value/Cfg_vbv_maxrate.java
+END
+Cfg_level_idc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/int_value/Cfg_level_idc.java
+END
+Cfg_bitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/x264/int_value/Cfg_bitrate.java
+END

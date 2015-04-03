@@ -1,0 +1,43 @@
+10
+
+dir
+2
+https://wuxch-me-gui.googlecode.com/svn/trunk/junit
+https://wuxch-me-gui.googlecode.com/svn
+
+
+
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3a16971d-43b7-d573-3d4d-2cc08014f1d1
+
+command
+dir
+
+config
+dir
+
+convert
+dir
+
+gui
+dir
+
+stub
+dir
+

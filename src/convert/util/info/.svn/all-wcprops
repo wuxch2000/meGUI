@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/convert/util/info
+END
+VI_AudioCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/convert/util/info/VI_AudioCodec.java
+END
+A_VideoInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/convert/util/info/A_VideoInfo.java
+END
+VI_VideoCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/convert/util/info/VI_VideoCodec.java
+END
+VI_Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/convert/util/info/VI_Format.java
+END
+VI_AudioBitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/convert/util/info/VI_AudioBitrate.java
+END
+A_VI_Int.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/convert/util/info/A_VI_Int.java
+END
+A_VI_String.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/convert/util/info/A_VI_String.java
+END
+A_VI_Bitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/convert/util/info/A_VI_Bitrate.java
+END
+A_VI_Double.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/convert/util/info/A_VI_Double.java
+END
+VI_VideoBitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/convert/util/info/VI_VideoBitrate.java
+END
+VI_Fps.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/convert/util/info/VI_Fps.java
+END
+VI_Width.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/convert/util/info/VI_Width.java
+END
+VI_AudioChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/convert/util/info/VI_AudioChannel.java
+END
+VI_Height.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/convert/util/info/VI_Height.java
+END
+VI_Length.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/convert/util/info/VI_Length.java
+END

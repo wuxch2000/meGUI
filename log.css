@@ -1,0 +1,57 @@
+
+table {
+    margin-left : auto;
+    margin-right : auto;
+    width: 50em;
+    border-top-width: medium;
+    border-bottom-width: medium;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+tr.job {
+    font-family: Myriad Pro;
+}
+
+tr.job:hover {
+    color: blue;
+    background: #E5E5E5;
+}
+
+td.status {
+    font-family: Adobe ºÚÌå Std;
+}
+
+caption {
+    caption-side : bottom;
+    text-align : right;
+}
+
+/* div.job { */
+/*     display: block; */
+/*     margin: 10pt 10pt 10pt 10pt; */
+/* } */
+
+/* div.job:hover { */
+/*     background: #E5E5E5; */
+/*     margin: 10pt 10pt 10pt 10pt; */
+/* } */
+
+/* span { */
+/*     display: block; */
+/*     width: 20em; */
+/*     height: 2em; */
+/*     margin: 10pt 10pt 10pt 10pt; */
+/*     padding: 10pt 10pt 10pt 10pt; */
+/* } */
+
+/* span.date { */
+/*     display: block; */
+/*     position: relative; */
+/*     left: 20em; */
+/*     top: -20em; */
+/* } */
+
+/* span.file-name:hover { */
+/*     background: #F0F8FF; */
+/* } */

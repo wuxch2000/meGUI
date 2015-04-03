@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items
+END
+Detail_VideoBitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_VideoBitrate.java
+END
+A_Detail.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/A_Detail.java
+END
+Detail_AudioCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_AudioCodec.java
+END
+Detail_Fps.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_Fps.java
+END
+Detail_AudioChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_AudioChannel.java
+END
+Detail_Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_Name.java
+END
+Detail_VideoCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_VideoCodec.java
+END
+Detail_Width.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_Width.java
+END
+Detail_Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_Format.java
+END
+Detail_Height.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_Height.java
+END
+Detail_AudioBitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_AudioBitrate.java
+END
+Detail_Length.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/gui/major/videoinfo/videodetail/items/Detail_Length.java
+END

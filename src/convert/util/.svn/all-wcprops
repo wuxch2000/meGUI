@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/convert/util
+END
+VideoFileInfor.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/convert/util/VideoFileInfor.java
+END
+VideoFileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/convert/util/VideoFileCache.java
+END
+VideoConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/convert/util/VideoConvert.java
+END
+VideoFileClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/convert/util/VideoFileClip.java
+END
+ClearTempFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/convert/util/ClearTempFiles.java
+END
+VideoConvertInstances.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/convert/util/VideoConvertInstances.java
+END
+I_Progress.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/convert/util/I_Progress.java
+END
+ThreadKeepWake.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/convert/util/ThreadKeepWake.java
+END

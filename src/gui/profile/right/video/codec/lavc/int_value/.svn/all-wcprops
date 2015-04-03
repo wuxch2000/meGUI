@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value
+END
+Cfg_vqmax.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vqmax.java
+END
+Cfg_vqmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vqmin.java
+END
+Cfg_vpass.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vpass.java
+END
+Cfg_keyint.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_keyint.java
+END
+Cfg_vb_strategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vb_strategy.java
+END
+Cfg_vqdiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vqdiff.java
+END
+Cfg_vmax_b_frames.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vmax_b_frames.java
+END
+Cfg_vratetol.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vratetol.java
+END
+Cfg_vqscale.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vqscale.java
+END
+Cfg_mbqmax.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_mbqmax.java
+END
+Cfg_vbitrate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_vbitrate.java
+END
+Cfg_mbqmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gui/profile/right/video/codec/lavc/int_value/Cfg_mbqmin.java
+END

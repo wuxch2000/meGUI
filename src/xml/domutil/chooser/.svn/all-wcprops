@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/xml/domutil/chooser
+END
+ElementChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/xml/domutil/chooser/ElementChooser.java
+END
+ChooseElementByNameAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/xml/domutil/chooser/ChooseElementByNameAttributes.java
+END
+ChooseElementAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/xml/domutil/chooser/ChooseElementAll.java
+END
+ChooseElementByName.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/xml/domutil/chooser/ChooseElementByName.java
+END
+ChooseElementByNameAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/xml/domutil/chooser/ChooseElementByNameAttribute.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/gui/util/monitor
+END
+SwingWorkerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/gui/util/monitor/SwingWorkerGui.java
+END
+GuiMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/gui/util/monitor/GuiMonitor.java
+END
+NeedUsingSwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gui/util/monitor/NeedUsingSwingWorker.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/gui/util/monitor/Monitor.java
+END
+SupportCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/gui/util/monitor/SupportCancel.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/gui/util/monitor/ProgressPanel.java
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/gui/util/monitor/ProgressDialog.java
+END
+ConsoleMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/gui/util/monitor/ConsoleMonitor.java
+END

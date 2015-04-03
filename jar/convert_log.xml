@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<log>
+  <run-time-info>
+    <last-open-directory>D:\Download\bt\Modern.Family.S03E24.HDTV.XviD-AFG</last-open-directory>
+    <last-dest-directory>D:\Download\Movie\m4v</last-dest-directory>
+  <show-tutorial-on-shartup>false</show-tutorial-on-shartup>
+  </run-time-info>
+  <convert-log>
+    <job>
+      <start-time>2012-05-25 23:24:38 星期五</start-time>
+      <end-time>2012-05-25 23:39:46 星期五</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E24.HDTV.XviD-AFG\Modern.Family.S03E24.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1288</length>
+        <format>XVID</format>
+        <video-bitrate>960.608 kbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.324.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:28</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-19 01:59:18 星期六</start-time>
+      <end-time>2012-05-19 02:59:29 星期六</end-time>
+      <source-file>D:\Download\bt\Survivor.S24E14.HDTV.XviD-AFG\Survivor.S24E14.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>5437</length>
+        <format>XVID</format>
+        <video-bitrate>1.271 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor.2414.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>1:30:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-19 01:22:15 星期六</start-time>
+      <end-time>2012-05-19 01:46:43 星期六</end-time>
+      <source-file>D:\Download\bt\Survivor.S24E15.Reunion.Show.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2053</length>
+        <format>XVID</format>
+        <video-bitrate>1.256 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor.2415.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:34:13</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-19 01:09:02 星期六</start-time>
+      <end-time>2012-05-19 01:22:15 星期六</end-time>
+      <source-file>D:\Download\bt\The.Big.Bang.Theory.S05E24.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1290</length>
+        <format>XVID</format>
+        <video-bitrate>1.015 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.524.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-19 00:54:12 星期六</start-time>
+      <end-time>2012-05-19 01:09:01 星期六</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E23.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1290</length>
+        <format>XVID</format>
+        <video-bitrate>1.014 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.323.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-19 00:22:44 星期六</start-time>
+      <end-time>2012-05-19 00:54:11 星期六</end-time>
+      <source-file>D:\Download\bt\Greys.Anatomy.S08E24.FASTSUB.VOSTFR.HDTV.XviD-ROKS.avi</source-file>
+      <source-file-info>
+        <length>2561</length>
+        <format>XVID</format>
+        <video-bitrate>997.296 kbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.824.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:41</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-18 23:53:58 星期五</start-time>
+      <end-time>2012-05-19 00:22:44 星期六</end-time>
+      <source-file>D:\Download\bt\Greys.Anatomy.S08E23.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2558</length>
+        <format>XVID</format>
+        <video-bitrate>1.002 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.823.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:38</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-12 01:07:34 星期六</start-time>
+      <end-time>2012-05-12 01:32:25 星期六</end-time>
+      <source-file>D:\Download\bt\Survivor.S24E13.HDTV.XviD-AFG\Survivor.S24E13.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2539</length>
+        <format>XVID</format>
+        <video-bitrate>1.258 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor.2413.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:19</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-10 23:47:33 星期四</start-time>
+      <end-time>2012-05-11 00:01:25 星期五</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E22.HDTV.XviD-AFG\Modern.Family.S03E22.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1290</length>
+        <format>XVID</format>
+        <video-bitrate>1.005 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.322.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:30</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-06 00:29:55 星期日</start-time>
+      <end-time>2012-05-06 01:10:49 星期日</end-time>
+      <source-file>D:\Download\bt\[ www.TorrentDay.com ] - Survivor.S24E12.HDTV.XviD-AFG\Survivor.S24E12.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2537</length>
+        <format>XVID</format>
+        <video-bitrate>1.258 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor.2412.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:17</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-05 23:59:19 星期六</start-time>
+      <end-time>2012-05-06 00:29:54 星期日</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E22 HDTV XviD-AFG[ettv]\Greys.Anatomy.S08E22.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2555</length>
+        <format>XVID</format>
+        <video-bitrate>999.576 kbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.822.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:35</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-04 01:14:24 星期五</start-time>
+      <end-time>2012-05-04 01:24:54 星期五</end-time>
+      <source-file>D:\Download\bt\The.Big.Bang.Theory.S05E23.HDTV.XviD-AFG\The.Big.Bang.Theory.S05E23.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1296</length>
+        <format>XVID</format>
+        <video-bitrate>1.011 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.523.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:36</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-05-02 23:26:17 星期三</start-time>
+      <end-time>2012-05-02 23:37:39 星期三</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E21.HDTV.XviD-AFG\Modern.Family.S03E21.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1250</length>
+        <format>XVID</format>
+        <video-bitrate>994.264 kbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.321.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:50</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-28 01:50:13 星期六</start-time>
+      <end-time>2012-04-28 02:43:46 星期六</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E21 HDTV XviD-2HD[ettv]\greys.anatomy.s08e21.hdtv.xvid-2hd.avi</source-file>
+      <source-file-info>
+        <length>2540</length>
+        <format>XVID</format>
+        <video-bitrate>1.014 mbps</video-bitrate>
+        <audio-bitrate>126.8 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\greys.anatomy.821.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:20</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-27 03:17:41 星期五</start-time>
+      <end-time>2012-04-27 03:30:03 星期五</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E22 The Stag Convergence HDTV XviD-FQM[ettv]\the.big.bang.theory.s05e22.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>1270</length>
+        <format>XVID</format>
+        <video-bitrate>976.416 kbps</video-bitrate>
+        <audio-bitrate>164.632 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\the.big.bang.theory.522.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:10</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-27 02:43:21 星期五</start-time>
+      <end-time>2012-04-27 03:17:41 星期五</end-time>
+      <source-file>D:\Download\bt\Survivor S24E11 Never Say Die HDTV XviD-FQM[ettv]\survivor.s24e11.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2549</length>
+        <format>XVID</format>
+        <video-bitrate>997.144 kbps</video-bitrate>
+        <audio-bitrate>141.144 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2411.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:29</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-20 00:06:12 星期五</start-time>
+      <end-time>2012-04-20 00:31:51 星期五</end-time>
+      <source-file>D:\Download\bt\Greys.Anatomy.S08E20.HDTV.XviD-AFG\Greys.Anatomy.S08E20.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2557</length>
+        <format>XVID</format>
+        <video-bitrate>999.544 kbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.820.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-19 19:10:23 星期四</start-time>
+      <end-time>2012-04-19 19:23:51 星期四</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E20 HDTV XviD-2HD[ettv]\modern.family.s03e20.hdtv.xvid-2hd.avi</source-file>
+      <source-file-info>
+        <length>1266</length>
+        <format>XVID</format>
+        <video-bitrate>1.017 mbps</video-bitrate>
+        <audio-bitrate>126.256 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\modern.family.320.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:06</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-19 01:07:27 星期四</start-time>
+      <end-time>2012-04-19 01:33:21 星期四</end-time>
+      <source-file>D:\Download\bt\Survivor S24E10 Im No Dummy HDTV XviD-FQM[ettv]\survivor.s24e10.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2521</length>
+        <format>XVID</format>
+        <video-bitrate>990.832 kbps</video-bitrate>
+        <audio-bitrate>159.832 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2410.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:01</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-13 23:41:18 星期五</start-time>
+      <end-time>2012-04-14 00:08:26 星期六</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E19 HDTV XviD-2HD[ettv]\greys.anatomy.s08e19.hdtv.xvid-2hd.avi</source-file>
+      <source-file-info>
+        <length>2477</length>
+        <format>XVID</format>
+        <video-bitrate>1.043 mbps</video-bitrate>
+        <audio-bitrate>126.848 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\greys.anatomy.819.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:41:17</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-13 00:51:26 星期五</start-time>
+      <end-time>2012-04-13 01:04:34 星期五</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E19 HDTV XviD-2HD[ettv]\modern.family.s03e19.hdtv.xvid-2hd.avi</source-file>
+      <source-file-info>
+        <length>1285</length>
+        <format>XVID</format>
+        <video-bitrate>1,000 kbps</video-bitrate>
+        <audio-bitrate>125.808 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\modern.family.319.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:25</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-13 00:25:36 星期五</start-time>
+      <end-time>2012-04-13 00:51:26 星期五</end-time>
+      <source-file>D:\Download\bt\Survivor.S24E09.Go.Out.with.a.Bang.HDTV.XviD-FQM.avi</source-file>
+      <source-file-info>
+        <length>2539</length>
+        <format>XVID</format>
+        <video-bitrate>991.728 kbps</video-bitrate>
+        <audio-bitrate>151.592 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor.2409.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:19</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-12 23:36:27 星期四</start-time>
+      <end-time>2012-04-12 23:36:35 星期四</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E19.HDTV.x264-LOL.mp4</source-file>
+      <source-file-info>
+        <length>1297</length>
+        <format>H264</format>
+        <video-bitrate>1.077 mbps</video-bitrate>
+        <audio-bitrate>110.064 kbps</audio-bitrate>
+        <video-codec>ffh264</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>720</width>
+        <height>404</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.319.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-06 15:36:03 星期五</start-time>
+      <end-time>2012-04-06 16:01:51 星期五</end-time>
+      <source-file>D:\Download\bt\Greys.Anatomy.S08E18.HDTV.XviD-AFG\Greys.Anatomy.S08E18.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>2493</length>
+        <format>XVID</format>
+        <video-bitrate>1.002 mbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.818.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:41:33</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-06 15:26:59 星期五</start-time>
+      <end-time>2012-04-06 15:36:02 星期五</end-time>
+      <source-file>D:\Download\bt\[ www.TorrentDay.com ] - The.Big.Bang.Theory.S05E21.HDTV.XviD-AFG\The.Big.Bang.Theory.S05E21.HDTV.XviD-AFG.avi</source-file>
+      <source-file-info>
+        <length>1169</length>
+        <format>XVID</format>
+        <video-bitrate>981.68 kbps</video-bitrate>
+        <audio-bitrate>127.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>640</width>
+        <height>360</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.521.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:19:29</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-04-06 00:12:26 星期五</start-time>
+      <end-time>2012-04-06 00:37:09 星期五</end-time>
+      <source-file>D:\Download\bt\Survivor S24E08 Just Annihilate Them HDTV XviD-FQM[ettv]\survivor.s24e08.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2530</length>
+        <format>XVID</format>
+        <video-bitrate>1.007 mbps</video-bitrate>
+        <audio-bitrate>139.2 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2408.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:10</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-28 20:40:49 星期三</start-time>
+      <end-time>2012-03-28 21:10:02 星期三</end-time>
+      <source-file>D:\Download\bt\Survivor S24E07 The Beauty in a Merge HDTV.XviD-FQM[ettv]\survivor.s24e07.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2548</length>
+        <format>XVID</format>
+        <video-bitrate>994.344 kbps</video-bitrate>
+        <audio-bitrate>143.656 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2407.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:28</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-21 23:57:58 星期三</start-time>
+      <end-time>2012-03-22 00:23:43 星期四</end-time>
+      <source-file>D:\Download\bt\Modern Family S3.E18 (xCrazy0328x)\Modern Family S3.E18.avi</source-file>
+      <source-file-info>
+        <length>1287</length>
+        <format>DX50</format>
+        <video-bitrate>1.2 mbps</video-bitrate>
+        <audio-bitrate>128 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern Family S3.E18.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:27</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-21 23:24:20 星期三</start-time>
+      <end-time>2012-03-21 23:57:58 星期三</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S8.E17 (xCrazy0328x)\Greys Anatomy S8.E17.avi</source-file>
+      <source-file-info>
+        <length>2545</length>
+        <format>DX50</format>
+        <video-bitrate>1.08 mbps</video-bitrate>
+        <audio-bitrate>128 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys Anatomy S8.E17.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:25</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-21 22:43:50 星期三</start-time>
+      <end-time>2012-03-21 23:24:20 星期三</end-time>
+      <source-file>D:\Download\bt\Survivor S24.E5 (xCrazy0328x)\Survivor S24.E5.avi</source-file>
+      <source-file-info>
+        <length>2541</length>
+        <format>XVID</format>
+        <video-bitrate>1.012 mbps</video-bitrate>
+        <audio-bitrate>128.064 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor S24.E5.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:21</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-09 01:24:11 星期五</start-time>
+      <end-time>2012-03-09 01:35:57 星期五</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E19 HDTV XviD-2HD[ettv]\the.big.bang.theory.s05e19.hdtv.xvid-2hd.avi</source-file>
+      <source-file-info>
+        <length>1194</length>
+        <format>XVID</format>
+        <video-bitrate>1.087 mbps</video-bitrate>
+        <audio-bitrate>126.68 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\the.big.bang.theory.519.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:19:54</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-09 00:57:08 星期五</start-time>
+      <end-time>2012-03-09 01:24:10 星期五</end-time>
+      <source-file>D:\Download\bt\Survivor S24E04 Bum-Puzzled HDTV XviD-FQM[ettv]\survivor.s24e04.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2546</length>
+        <format>XVID</format>
+        <video-bitrate>1 mbps</video-bitrate>
+        <audio-bitrate>139.536 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2404.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:26</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-08 00:25:26 星期四</start-time>
+      <end-time>2012-03-08 01:13:37 星期四</end-time>
+      <source-file>D:\Download\bt\Survivor S24E04 Bum-Puzzled HDTV XviD-FQM[ettv]\survivor.s24e04.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2546</length>
+        <format>XVID</format>
+        <video-bitrate>1 mbps</video-bitrate>
+        <audio-bitrate>139.536 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2404.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:26</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-04 01:55:42 星期日</start-time>
+      <end-time>2012-03-04 02:24:09 星期日</end-time>
+      <source-file>D:\Download\bt\The.Big.Bang.Theory.518.mp4</source-file>
+      <source-file-info>
+        <length>1265</length>
+        <format>H264</format>
+        <video-bitrate>712.512 kbps</video-bitrate>
+        <audio-bitrate>113.28 kbps</audio-bitrate>
+        <video-codec>ffh264</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>720</width>
+        <height>404</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.518.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:05</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-01 21:07:31 星期四</start-time>
+      <end-time>2012-03-01 22:09:10 星期四</end-time>
+      <source-file>D:\Download\bt\survivor.s24e03.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2543</length>
+        <format>XVID</format>
+        <video-bitrate>1.001 mbps</video-bitrate>
+        <audio-bitrate>140.224 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2403.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:23</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-03-01 20:51:32 星期四</start-time>
+      <end-time>2012-03-01 21:07:30 星期四</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E17.HDTV.XviD-2HD.avi</source-file>
+      <source-file-info>
+        <length>1282</length>
+        <format>XVID</format>
+        <video-bitrate>1.003 mbps</video-bitrate>
+        <audio-bitrate>126.464 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.317.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:22</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-26 19:21:30 星期日</start-time>
+      <end-time>2012-02-26 19:57:06 星期日</end-time>
+      <source-file>D:\Download\bt\[ www.TorrentDay.com ] - Greys.Anatomy.S08E16.HDTV.XviD-2HD\greys.anatomy.s08e16.hdtv.xvid-2hd.avi</source-file>
+      <source-file-info>
+        <length>2535</length>
+        <format>XVID</format>
+        <video-bitrate>1.016 mbps</video-bitrate>
+        <audio-bitrate>127.192 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\greys.anatomy.816.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:15</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-26 18:15:10 星期日</start-time>
+      <end-time>2012-02-26 18:15:20 星期日</end-time>
+      <source-file>D:\JavaCode\meGUI\examples\The.Big.Bang.Theory.518.mp4</source-file>
+      <source-file-info>
+        <length>1265</length>
+        <format>H264</format>
+        <video-bitrate>712.512 kbps</video-bitrate>
+        <audio-bitrate>113.28 kbps</audio-bitrate>
+        <video-codec>ffh264</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>720</width>
+        <height>404</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.518.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:05</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-25 18:54:36 星期六</start-time>
+      <end-time>2012-02-25 18:54:45 星期六</end-time>
+      <source-file>D:\Download\bt\Greys.Anatomy.S08E16.HDTV.x264-LOL.mp4</source-file>
+      <source-file-info>
+        <length>2551</length>
+        <format>H264</format>
+        <video-bitrate>673.696 kbps</video-bitrate>
+        <audio-bitrate>137.64 kbps</audio-bitrate>
+        <video-codec>ffh264</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>720</width>
+        <height>404</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.816.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:31</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-23 22:26:59 星期四</start-time>
+      <end-time>2012-02-23 22:53:47 星期四</end-time>
+      <source-file>D:\Download\bt\Survivor.S24E02.Total.Dysfunction.HDTV.XviD-FQM.avi</source-file>
+      <source-file-info>
+        <length>2546</length>
+        <format>XVID</format>
+        <video-bitrate>999.568 kbps</video-bitrate>
+        <audio-bitrate>139.624 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Survivor.2402.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:26</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-23 21:45:31 星期四</start-time>
+      <end-time>2012-02-23 21:58:56 星期四</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E16 Virgin Territory HDTV XviD-FQM[ettv]\modern.family.s03e16.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>1261</length>
+        <format>XVID</format>
+        <video-bitrate>999.536 kbps</video-bitrate>
+        <audio-bitrate>151.144 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\modern.family.316.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:01</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-23 21:45:14 星期四</start-time>
+      <end-time>2012-02-23 21:45:31 星期四</end-time>
+      <source-file>D:\Download\bt\The.Big.Bang.Theory.S05E18.HDTV.x264-LOL.mp4</source-file>
+      <source-file-info>
+        <length>1265</length>
+        <format>H264</format>
+        <video-bitrate>712.512 kbps</video-bitrate>
+        <audio-bitrate>113.28 kbps</audio-bitrate>
+        <video-codec>ffh264</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>720</width>
+        <height>404</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.518.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:05</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-18 14:45:23 星期六</start-time>
+      <end-time>2012-02-18 15:10:52 星期六</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E15 HDTV XviD-LOL[ettv]\Greys.Anatomy.S08E15.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2551</length>
+        <format>XVID</format>
+        <video-bitrate>978.44 kbps</video-bitrate>
+        <audio-bitrate>158.888 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.815.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:31</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-16 21:56:22 星期四</start-time>
+      <end-time>2012-02-16 22:21:50 星期四</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E17 HDTV XviD-LOL[ettv]\the.big.bang.theory.517.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>1288</length>
+        <format>XVID</format>
+        <video-bitrate>972.096 kbps</video-bitrate>
+        <audio-bitrate>150.936 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\the.big.bang.theory.517.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:28</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-15 22:25:56 星期三</start-time>
+      <end-time>2012-02-15 23:19:26 星期三</end-time>
+      <source-file>D:\Download\bt\Survivor S24E01 Two Tribes One Camp No Rules HDTV.XviD-FQM[ettv]\survivor.s24e01.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2606</length>
+        <format>XVID</format>
+        <video-bitrate>978.896 kbps</video-bitrate>
+        <audio-bitrate>133.64 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2401.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:26</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-15 21:55:07 星期三</start-time>
+      <end-time>2012-02-15 22:25:39 星期三</end-time>
+      <source-file>D:\Download\bt\Survivor S24E01 Two Tribes One Camp No Rules HDTV.XviD-FQM[ettv]\survivor.s24e01.hdtv.xvid-fqm.avi</source-file>
+      <source-file-info>
+        <length>2606</length>
+        <format>XVID</format>
+        <video-bitrate>978.896 kbps</video-bitrate>
+        <audio-bitrate>133.64 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>29.97</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\survivor.2401.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:26</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>中断</status>
+    </job>
+    <job>
+      <start-time>2012-02-15 21:33:40 星期三</start-time>
+      <end-time>2012-02-15 21:55:06 星期三</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E15 HDTV XviD-LOL[ettv]\Modern.Family.S03E15.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>1298</length>
+        <format>XVID</format>
+        <video-bitrate>973.928 kbps</video-bitrate>
+        <audio-bitrate>142.568 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.315.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:38</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-11 18:19:40 星期六</start-time>
+      <end-time>2012-02-11 18:50:47 星期六</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E14 HDTV XviD-LOL[ettv]\Greys.Anatomy.S08E14.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2549</length>
+        <format>XVID</format>
+        <video-bitrate>985.608 kbps</video-bitrate>
+        <audio-bitrate>152.536 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.814.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:29</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-09 23:00:51 星期四</start-time>
+      <end-time>2012-02-09 23:17:16 星期四</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E16 HDTV XviD-LOL[ettv]\The.Big.Bang.Theory.S05E16.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>1304</length>
+        <format>XVID</format>
+        <video-bitrate>974.064 kbps</video-bitrate>
+        <audio-bitrate>133.136 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.516.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:44</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-08 23:26:07 星期三</start-time>
+      <end-time>2012-02-08 23:44:47 星期三</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E14 HDTV XviD-LOL[ettv]\Modern.Family.S03E14.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>1278</length>
+        <format>XVID</format>
+        <video-bitrate>989.624 kbps</video-bitrate>
+        <audio-bitrate>142.504 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.314.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:18</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-07 00:21:10 星期二</start-time>
+      <end-time>2012-02-07 00:41:51 星期二</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S01E21.Travels.With.Scout.HDTV.XviD-FQM.avi</source-file>
+      <source-file-info>
+        <length>1269</length>
+        <format>XVID</format>
+        <video-bitrate>988.768 kbps</video-bitrate>
+        <audio-bitrate>153.696 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.121.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:09</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-06 23:59:18 星期一</start-time>
+      <end-time>2012-02-07 00:21:09 星期二</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S01E20.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>1259</length>
+        <format>XVID</format>
+        <video-bitrate>1.019 mbps</video-bitrate>
+        <audio-bitrate>134.28 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.120.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:59</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-06 23:37:54 星期一</start-time>
+      <end-time>2012-02-06 23:59:17 星期一</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S01E17.Truth.Be.Told.HDTV.XviD-FQM.avi</source-file>
+      <source-file-info>
+        <length>1271</length>
+        <format>XVID</format>
+        <video-bitrate>988.472 kbps</video-bitrate>
+        <audio-bitrate>150.84 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.117.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:11</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-06 23:04:09 星期一</start-time>
+      <end-time>2012-02-06 23:23:12 星期一</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S01E18.HDTV.XviD-NoTV.avi</source-file>
+      <source-file-info>
+        <length>1262</length>
+        <format>XVID</format>
+        <video-bitrate>1.028 mbps</video-bitrate>
+        <audio-bitrate>122.16 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.118.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:02</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-04 01:59:24 星期六</start-time>
+      <end-time>2012-02-04 02:24:37 星期六</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E13 HDTV XviD-LOL[ettv]\Greys.Anatomy.S08E13.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2545</length>
+        <format>XVID</format>
+        <video-bitrate>988.784 kbps</video-bitrate>
+        <audio-bitrate>150.992 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.813.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:25</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-02-02 21:17:57 星期四</start-time>
+      <end-time>2012-02-02 21:34:55 星期四</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E15 HDTV XviD-LOL[ettv]\the.big.bang.theory.515.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>1220</length>
+        <format>XVID</format>
+        <video-bitrate>1.035 mbps</video-bitrate>
+        <audio-bitrate>150.808 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\the.big.bang.theory.515.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:20</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-29 02:09:12 星期日</start-time>
+      <end-time>2012-01-29 03:29:57 星期日</end-time>
+      <source-file>D:\Download\bt\Eat Pray Love.2010.R5.LiNE.Xvid {1337x}-Noir\Eat Pray Love.2010.R5.LiNE.Xvid {1337x}-Noir.avi</source-file>
+      <source-file-info>
+        <length>8017</length>
+        <format>XVID</format>
+        <video-bitrate>1.344 mbps</video-bitrate>
+        <audio-bitrate>113.608 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>25.00</fps>
+        <width>720</width>
+        <height>400</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Eat Pray Love.2010.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>2:13:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-26 22:29:33 星期四</start-time>
+      <end-time>2012-01-26 22:41:22 星期四</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E14 HDTV XviD-LOL[ettv]\the.big.bang.theory.514.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>1209</length>
+        <format>XVID</format>
+        <video-bitrate>1.046 mbps</video-bitrate>
+        <audio-bitrate>150.976 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\the.big.bang.theory.514.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:09</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-20 08:31:24 星期五</start-time>
+      <end-time>2012-01-20 08:54:03 星期五</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E12 HDTV XviD-LOL[ettv]\Greys.Anatomy.S08E12.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2549</length>
+        <format>XVID</format>
+        <video-bitrate>978.192 kbps</video-bitrate>
+        <audio-bitrate>159.776 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.812.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:29</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-19 22:55:07 星期四</start-time>
+      <end-time>2012-01-19 23:10:56 星期四</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E13 HDTV XviD-ASAP[ettv]\The.Big.Bang.Theory.S05E13.HDTV.XviD-ASAP.avi</source-file>
+      <source-file-info>
+        <length>1232</length>
+        <format>XVID</format>
+        <video-bitrate>1.022 mbps</video-bitrate>
+        <audio-bitrate>157.032 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.513.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:32</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-18 22:31:47 星期三</start-time>
+      <end-time>2012-01-18 22:45:07 星期三</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E13 HDTV XviD-LOL[ettv]\modern.family.313.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>1266</length>
+        <format>XVID</format>
+        <video-bitrate>991.168 kbps</video-bitrate>
+        <audio-bitrate>153.592 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\modern.family.313.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:06</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-18 21:14:45 星期三</start-time>
+      <end-time>2012-01-18 22:27:23 星期三</end-time>
+      <source-file>D:\Download\bt\Sherlock Sn2 Ep3 HD-TV - The Reichenbach Fall - Cool Release\Sherlock Sn2 Ep3 HD-TV - The Reichenbach Fall - Cool Release.avi</source-file>
+      <source-file-info>
+        <length>5300</length>
+        <format>XVID</format>
+        <video-bitrate>966.328 kbps</video-bitrate>
+        <audio-bitrate>129.272 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>25.00</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Sherlock 203.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>1:28:20</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-18 20:36:10 星期三</start-time>
+      <end-time>2012-01-18 21:14:38 星期三</end-time>
+      <source-file>D:\Download\bt\The Good Wife S03E13 HDTV XviD-LOL[ettv]\The.Good.Wife.S03E13.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2577</length>
+        <format>XVID</format>
+        <video-bitrate>957.56 kbps</video-bitrate>
+        <audio-bitrate>167.92 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Good.Wife.313.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:57</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-13 20:48:36 星期五</start-time>
+      <end-time>2012-01-13 21:14:19 星期五</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E11 HDTV XviD-LOL[ettv]\Greys.Anatomy.S08E11.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2553</length>
+        <format>XVID</format>
+        <video-bitrate>979.448 kbps</video-bitrate>
+        <audio-bitrate>156.816 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Greys.Anatomy.811.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:33</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-12 20:38:25 星期四</start-time>
+      <end-time>2012-01-12 20:58:59 星期四</end-time>
+      <source-file>D:\Download\bt\The Big Bang Theory S05E12 HDTV XviD-ASAP[ettv]\The.Big.Bang.Theory.S05E12.HDTV.XviD-ASAP.avi</source-file>
+      <source-file-info>
+        <length>1218</length>
+        <format>XVID</format>
+        <video-bitrate>1.039 mbps</video-bitrate>
+        <audio-bitrate>153.384 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Big.Bang.Theory.512.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:20:18</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-12 20:08:14 星期四</start-time>
+      <end-time>2012-01-12 20:38:25 星期四</end-time>
+      <source-file>D:\Download\bt\Modern.Family.S03E12.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>1297</length>
+        <format>XVID</format>
+        <video-bitrate>972.128 kbps</video-bitrate>
+        <audio-bitrate>146.576 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Modern.Family.312.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:37</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-11 01:49:14 星期三</start-time>
+      <end-time>2012-01-11 02:44:37 星期三</end-time>
+      <source-file>D:\Download\bt\Sherlock.2x02.The.Hounds.Of.Baskerville.HDTV.XviD-FoV.avi</source-file>
+      <source-file-info>
+        <length>5297</length>
+        <format>XVID</format>
+        <video-bitrate>966.904 kbps</video-bitrate>
+        <audio-bitrate>128.912 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>25.00</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\Sherlock.202.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>1:28:17</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-11 00:55:48 星期三</start-time>
+      <end-time>2012-01-11 01:49:13 星期三</end-time>
+      <source-file>D:\Download\bt\[ www.TorrentDay.com ] - Sherlock.2x01.A_Scandal_In_Belgravia.HDTV_XviD-FoV\sherlock.2x01.a_scandal_in_belgravia.hdtv_xvid-fov.avi</source-file>
+      <source-file-info>
+        <length>5362</length>
+        <format>XVID</format>
+        <video-bitrate>953.672 kbps</video-bitrate>
+        <audio-bitrate>129.472 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>25.00</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\sherlock.201.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>1:29:22</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-10 21:14:06 星期二</start-time>
+      <end-time>2012-01-10 21:48:48 星期二</end-time>
+      <source-file>D:\Download\bt\The Good Wife S03E12 HDTV XviD-LOL[ettv]\The.Good.Wife.S03E12.HDTV.XviD-LOL.avi</source-file>
+      <source-file-info>
+        <length>2593</length>
+        <format>XVID</format>
+        <video-bitrate>952.8 kbps</video-bitrate>
+        <audio-bitrate>165.712 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\The.Good.Wife.312.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:43:13</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-06 08:22:17 星期五</start-time>
+      <end-time>2012-01-06 08:44:27 星期五</end-time>
+      <source-file>D:\Download\bt\Greys Anatomy S08E10 HDTV XviD-LOL[ettv]\greys.anatomy.810.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>2540</length>
+        <format>XVID</format>
+        <video-bitrate>988.288 kbps</video-bitrate>
+        <audio-bitrate>152.696 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\Download\Movie\m4v\greys.anatomy.810.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:42:20</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-04 23:22:09 星期三</start-time>
+      <end-time>2012-01-04 23:40:19 星期三</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E11 HDTV XviD-LOL[ettv]\modern.family.311.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>1291</length>
+        <format>XVID</format>
+        <video-bitrate>969.136 kbps</video-bitrate>
+        <audio-bitrate>152.304 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\modern.family.311.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:31</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+    <job>
+      <start-time>2012-01-04 22:55:02 星期三</start-time>
+      <end-time>2012-01-04 23:16:48 星期三</end-time>
+      <source-file>D:\Download\bt\Modern Family S03E11 HDTV XviD-LOL[ettv]\modern.family.311.hdtv-lol.avi</source-file>
+      <source-file-info>
+        <length>1291</length>
+        <format>XVID</format>
+        <video-bitrate>969.136 kbps</video-bitrate>
+        <audio-bitrate>152.304 kbps</audio-bitrate>
+        <video-codec>ffodivx</video-codec>
+        <audio-channel>2</audio-channel>
+        <fps>23.98</fps>
+        <width>624</width>
+        <height>352</height>
+      </source-file-info>
+      <destination-file>D:\JavaCode\meGUI\examples\m4v\modern.family.311.m4v</destination-file>
+      <start-pos>0:00:00</start-pos>
+      <end-pos>0:21:31</end-pos>
+      <script-file/>
+      <profile>ipod.nano</profile>
+      <status>完成</status>
+    </job>
+  </convert-log>
+</log>

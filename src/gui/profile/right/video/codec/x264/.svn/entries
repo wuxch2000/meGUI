@@ -1,0 +1,71 @@
+10
+
+dir
+2
+https://wuxch-me-gui.googlecode.com/svn/trunk/gui/profile/right/video/codec/x264
+https://wuxch-me-gui.googlecode.com/svn
+
+
+
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3a16971d-43b7-d573-3d4d-2cc08014f1d1
+
+Cfg_x264.java
+file
+
+
+
+
+2011-12-18T05:57:58.115000Z
+cbce99f12559de7d0656dd6bb86527cd
+2011-12-18T05:28:51.521364Z
+2
+wuxch2000@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1403
+
+bool_value
+dir
+
+int_value
+dir
+
+list_value
+dir
+
